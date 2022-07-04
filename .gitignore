@@ -1,0 +1,5 @@
+spy_test/env/
+spy_test/.pytest_cache/
+spy_test/__pycache__/
+spy_test/.DS_Store
+.DS_Store
