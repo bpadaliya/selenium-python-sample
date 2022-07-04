@@ -2,3 +2,4 @@ virtualenv
 virtualenvwrapper-win
 selenium
 pytest
+pytest-html
